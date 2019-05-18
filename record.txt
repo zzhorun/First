@@ -8,4 +8,6 @@ git co master
 git pull --rebase origin master
 git co test
 git rebase master
+git co master
+git merge test
 git push -u origin master
